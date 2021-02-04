@@ -1,7 +1,6 @@
-# eduxe
-PHP - PLENO | EDUXE - TEST
+# LARAVEL 8+
 
-Ações: Listagem, criação, edição e deleção (soft-delete) + Regras de transição.
+CRUD PHP -> Ações: Listagem, criação, edição e deleção (soft-delete) + Regras de transição.
 
 Ferramentas utilizadas:
 -Vs Code
